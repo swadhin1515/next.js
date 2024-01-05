@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/next.js is built on the following main stack:
+
 - [Stripe](https://stripe.com) – Payment Services
 - [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [Heroku](https://www.heroku.com) – Platform as a Service
@@ -80,11 +81,13 @@ swadhin1515/next.js is built on the following main stack:
 - [Algolia](https://www.algolia.com/?utm_source=stackshare&utm_medium=referral) – Search as a Service
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/next.js is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
@@ -163,14 +166,15 @@ swadhin1515/next.js is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/589/default_452afb716f8f4b904f267638e5c6b9172f9fa06d.png' alt='Algolia'/> [Algolia](https://www.algolia.com/?utm_source=stackshare&utm_medium=referral) – Search as a Service
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/next.js](https://github.com/swadhin1515/next.js)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|346<br/>Tools used|11/10/23 <br/>Report generated|
+|349<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -920,9 +924,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (259)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (262)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (259)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (262)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -1007,6 +1011,7 @@ Full tech stack [here](/techstack.md)
 |[buffer](https://www.npmjs.com/buffer)|v5.6.0|12/04/22|JJ Kasper |MIT|N/A|
 |[busboy](https://www.npmjs.com/busboy)|v1.6.0|03/24/23|Shu Ding |MIT|N/A|
 |[caniuse-lite](https://www.npmjs.com/caniuse-lite)|v1.0.30001406|09/19/22|Jimmy Lai |CC-BY-4.0|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v5.0.1|06/29/22|Wyatt Johnson |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v0.22.0|02/12/20|Joe Haddad |MIT|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.3.1|07/08/22|Max Proske |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v2.20.0|09/27/22|Jimmy Lai |MIT|N/A|
@@ -1067,6 +1072,7 @@ Full tech stack [here](/techstack.md)
 |[gzip-size](https://www.npmjs.com/gzip-size)|v5.1.1|05/21/20|JJ Kasper |MIT|N/A|
 |[http-proxy](https://www.npmjs.com/http-proxy)|v1.18.1|03/25/23|JJ Kasper |MIT|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.1|03/08/23|Hannes Bornö |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.0|03/02/23|Andrew Clark |MIT|N/A|
 |[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|11/30/21|Delba de Oliveira |MIT|N/A|
 |[image-size](https://www.npmjs.com/image-size)|v0.9.3|02/18/21|Joe Haddad |MIT|N/A|
 |[imagemin](https://www.npmjs.com/imagemin)|v8.0.1|01/04/23|Hassan El Mghari |MIT|N/A|
@@ -1081,6 +1087,7 @@ Full tech stack [here](/techstack.md)
 |[json5](https://www.npmjs.com/json5)|v2.2.3|01/03/23|JJ Kasper |MIT|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v9.0.0|01/10/23|Jan Kaifer |MIT|N/A|
 |[knex](https://www.npmjs.com/knex)|v0.21.6|11/10/20|Ash Connell |MIT|[CVE-2016-20018](https://github.com/advisories/GHSA-4jv9-3563-23j3) (High)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.1.0|05/18/23|Maia Teegarden |MIT|N/A|
 |[localforage](https://www.npmjs.com/localforage)|v1.7.3|01/05/19|Juan Olvera |Apache-2.0|N/A|
 |[loose-envify](https://www.npmjs.com/loose-envify)|v1.1.0|04/25/23|Shu Ding |MIT|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v7.12.0|07/08/22|Max Proske |ISC|N/A|
@@ -1159,7 +1166,7 @@ Full tech stack [here](/techstack.md)
 |[send](https://www.npmjs.com/send)|v0.17.1|03/29/20|Guy Bedford |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|v13.0.2|06/27/22|Max Proske |MIT|N/A|
 |[setimmediate](https://www.npmjs.com/setimmediate)|v1.0.5|01/03/22|JJ Kasper |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.29.3|05/03/22|Maria Violante |Apache-2.0|[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
+|[sharp](https://www.npmjs.com/sharp)|v0.29.3|05/03/22|Maria Violante |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)<br/>[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
 |[shell-quote](https://www.npmjs.com/shell-quote)|v1.7.3|10/29/21|JJ Kasper |MIT|N/A|
 |[slate](https://www.npmjs.com/slate)|v0.82.0|08/16/22|Henrik Wenz |MIT|N/A|
 |[slate-react](https://www.npmjs.com/slate-react)|v0.82.0|08/16/22|Henrik Wenz |MIT|N/A|
@@ -1189,4 +1196,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
